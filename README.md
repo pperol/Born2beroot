@@ -2,4 +2,4 @@
 
 On a Debian server with bonus part
 
-Cheatsheet only.
+Cheat sheet only.
